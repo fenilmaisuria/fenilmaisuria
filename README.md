@@ -1,5 +1,5 @@
 - ### Hi there, I'm Fenil Maisuria👋
-  ![](https://komarev.com/ghpvc/?fenilmaisuria&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=fenilmaisuria&style=flat-square)
 ## 📊 GitHub Stats:
 <p align="center">
   <img height=340 src="https://github-readme-stats.vercel.app/api?username=fenilmaisuria&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
