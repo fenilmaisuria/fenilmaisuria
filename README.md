@@ -2,16 +2,15 @@
   ![](https://komarev.com/ghpvc/?username=fenilmaisuria&style=flat-square)
   
 ## I'm a Data & AI Engineer
-
   * 🔭 I am Currently working as **AI Engineer**
-  * 
   
 ## 📊 GitHub Stats:
 <p align="center">
   <img height=340 src="https://github-readme-stats.vercel.app/api?username=fenilmaisuria&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
   /<img height=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilmaisuria&layout=pie&langs_count=8&card_width=310"/> 
 </p>
-[![Fenil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fenilmaisuria&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Fenil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fenilmaisuria&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies I use 
 
