@@ -9,6 +9,7 @@
   <img height=340 src="https://github-readme-stats.vercel.app/api?username=fenilmaisuria&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
   /<img height=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=fenilmaisuria&layout=pie&langs_count=8&card_width=310"/> 
 </p>
+
 ![Fenil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fenilmaisuria&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
 ## ⚡ Technologies I use 
@@ -55,5 +56,5 @@
 <a href="https://twitter.com/fenilmaisuria" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/fenilmaisuria" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+--- 
 ***Thanks for visiting my profile. ***
