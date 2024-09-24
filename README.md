@@ -2,8 +2,7 @@
   ![](https://komarev.com/ghpvc/?username=fenilmaisuria&style=flat-square)
   
 ## I'm a Data & AI Engineer
-  * 🔭 I am Currently working as **AI Engineer**
-
+ 
 ## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/fenilmaisuria?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=fenilmaisuria&theme=gotham&show_icons=true&rank_icon=github&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Fenil's github-readme-stats"/></a>
